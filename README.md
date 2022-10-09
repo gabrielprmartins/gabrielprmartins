@@ -19,7 +19,7 @@ Welcome to my Github. I'm Gabriel Pereira, student of Front-End programming and 
 ---
 
 ### ✔️ I'm currently learning
-- JavaScript
+- TypeScript
 
 ---
 
@@ -29,4 +29,4 @@ Welcome to my Github. I'm Gabriel Pereira, student of Front-End programming and 
 ---
 
 ### ☕ Get in touch
-- LinkedIn: <a href = "https://www.linkedin.com/in/gabriel-pereira-93a1b6202/">gabriel-pereira</a>
+- LinkedIn: <a href = "https://www.linkedin.com/in/gabrielprmartins/">gabrielprmartins</a>
