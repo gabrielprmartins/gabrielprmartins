@@ -1,4 +1,4 @@
-![Header Description](header-description.png)
+![Header Description](header-github.png)
 
 Welcome to my Github. I'm Gabriel Pereira, student of Front-End programming and Web Design
 
